@@ -1,0 +1,5 @@
+chrom	pos	id	ref	alt	hg38_chrom	hg38_pos	rsid	gnomad4.1_frequency	gene	vep_most_severe
+haplotype1-0000001	101	g1	A	G	NA	NA	NA	NA	NA	NA
+haplotype1-0000001	202	g2	C	T	chr1	1000202	None	None	None	None
+haplotype2-0000002	505	g5	A	C	chr2	2000505	rs0000005	5e-05	GENE5	synonymous_variant
+haplotype2-0000002	606	g6	C	G	chr2	2000606	rs0000006	0.0	GENE6	intergenic_variant

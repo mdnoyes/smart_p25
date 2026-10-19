@@ -1,0 +1,9 @@
+chrom	pos	id	ref	alt	homolog_chrom	homolog_pos	homolog_ref_allele	phased	haplotype_flag	in_tissue	passed_dp	passed_ref	passed_alt	passed_ref_strands	passed_alt_strands	h1_dp	h1_ref	h1_alt	h1_ref_strands	h1_alt_strands	h2_dp	h2_ref	h2_alt	h2_ref_strands	h2_alt_strands	ambiguous_dp	ambiguous_ref	ambiguous_alt	ambiguous_ref_strands	ambiguous_alt_strands	failed_dp	failed_ref	failed_alt	failed_ref_strands	failed_alt_strands
+haplotype1-0000001	300	v1_somatic_h1	C	T	haplotype2-0000002	290	C	True	PASS	on_h1	30	26	4	13;13	2;2	15	11	4	6;5	2;2	15	15	0	8;7	0;0	NA	NA	NA	NA	NA	2	2	0	1;1	0;0
+haplotype1-0000001	500	v2_germline_like	G	A	haplotype2-0000002	490	G	False	unknown_haplotype	on_unknown_haplotype	30	15	15	8;7	8;7	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	30	15	15	8;7	8;7	NA	NA	NA	NA	NA
+haplotype2-0000002	700	v3_strand_bias	A	G	haplotype1-0000001	710	A	True	PASS	on_h2	30	26	4	13;13	2;2	15	15	0	8;7	0;0	15	11	4	6;5	2;2	NA	NA	NA	NA	NA	2	2	0	1;1	0;0
+haplotype1-0000001	900	v4_low_confidence	T	C	haplotype2-0000002	890	T	NA	unknown_haplotype	below_read_threshold	3	2	1	1;1	1;0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	3	2	1	1;1	1;0	NA	NA	NA	NA	NA
+haplotype1-0000001	1100	v5_recurrent_err	C	A	haplotype2-0000002	1090	C	True	recurrent_error	on_unknown_haplotype	30	26	4	13;13	2;2	15	13	2	7;6	1;1	15	13	2	7;6	1;1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+haplotype2-0000002	1300	v6_ga_rich	G	A	haplotype1-0000001	1310	G	True	PASS	absent	30	30	0	15;15	0;0	15	15	0	8;7	0;0	15	15	0	8;7	0;0	NA	NA	NA	NA	NA	2	2	0	1;1	0;0
+haplotype1-0000001	1500	v7_homopolymer	C	A	haplotype2-0000002	1490	C	True	PASS	on_h1	30	26	4	13;13	2;2	15	11	4	6;5	2;2	15	15	0	8;7	0;0	NA	NA	NA	NA	NA	2	2	0	1;1	0;0
+haplotype2-0000002	1700	v8_somatic_h2	T	G	haplotype1-0000001	1710	T	True	PASS	absent	30	30	0	15;15	0;0	15	15	0	8;7	0;0	15	15	0	8;7	0;0	NA	NA	NA	NA	NA	2	2	0	1;1	0;0

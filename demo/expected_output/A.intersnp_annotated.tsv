@@ -1,0 +1,13 @@
+chrom	pos	id	ref	alt	distance_to_closest_variant
+chr1	1000	chr1_1000_A_G	A	G	200
+chr1	1200	chr1_1200_C_T	C	T	150
+chr1	1350	chr1_1350_G_A	G	A	100
+chr1	1450	chr1_1450_T_C	T	C	100
+chr1	5000	chr1_5000_C_A	C	A	3000
+chr1	8000	chr1_8000_G_T	G	T	300
+chr1	8300	chr1_8300_A_C	A	C	300
+chr1	20000	chr1_20000_T_G	T	G	11700
+chr2	3000	chr2_3000_C_T	C	T	100
+chr2	3100	chr2_3100_G_C	G	C	100
+chr2	3300	chr2_3300_A_T	A	T	200
+chr2	9000	chr2_9000_G_A	G	A	5700

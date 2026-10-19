@@ -1,0 +1,11 @@
+chrom	pos	id	ref	alt	NucFlag
+chr1	1000	chr1_1000_A_G	A	G	NA
+chr1	1350	chr1_1350_G_A	G	A	NA
+chr1	1450	chr1_1450_T_C	T	C	NA
+chr1	5000	chr1_5000_C_A	C	A	het
+chr1	8000	chr1_8000_G_T	G	T	NA
+chr1	8300	chr1_8300_A_C	A	C	NA
+chr1	20000	chr1_20000_T_G	T	G	NA
+chr2	3000	chr2_3000_C_T	C	T	NA
+chr2	3100	chr2_3100_G_C	G	C	NA
+chr2	3300	chr2_3300_A_T	A	T	NA

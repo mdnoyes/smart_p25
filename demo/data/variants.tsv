@@ -1,0 +1,9 @@
+chrom	pos	variant_id	ref	alt	homolog_chrom	homolog_pos	homolog_ref_allele	collapsed_calls	flipped_alleles	unique	satellite	segdup	repeat
+haplotype1-0000001	300	v1_somatic_h1	C	T	haplotype2-0000002	290	C	NA	False	True	False	False	NA
+haplotype1-0000001	500	v2_germline_like	G	A	haplotype2-0000002	490	G	NA	False	True	False	False	NA
+haplotype2-0000002	700	v3_strand_bias	A	G	haplotype1-0000001	710	A	NA	False	True	False	False	NA
+haplotype1-0000001	900	v4_low_confidence	T	C	haplotype2-0000002	890	T	NA	False	True	False	False	NA
+haplotype1-0000001	1100	v5_recurrent_err	C	A	haplotype2-0000002	1090	C	NA	False	True	False	False	NA
+haplotype2-0000002	1300	v6_ga_rich	G	A	haplotype1-0000001	1310	G	NA	False	True	False	False	NA
+haplotype1-0000001	1500	v7_homopolymer	C	A	haplotype2-0000002	1490	C	NA	False	True	False	False	NA
+haplotype2-0000002	1700	v8_somatic_h2	T	G	haplotype1-0000001	1710	T	NA	False	True	False	False	NA

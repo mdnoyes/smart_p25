@@ -1,0 +1,11 @@
+id1	id2	mutation1	mutation2	distance	pair_id
+chr1_1000_A_G	chr1_1200_C_T	A>G	C>T	200	0
+chr1_1000_A_G	chr1_1350_G_A	A>G	G>A	350	0
+chr1_1000_A_G	chr1_1450_T_C	A>G	T>C	450	0
+chr1_1200_C_T	chr1_1350_G_A	C>T	G>A	150	0
+chr1_1200_C_T	chr1_1450_T_C	C>T	T>C	250	0
+chr1_1350_G_A	chr1_1450_T_C	G>A	T>C	100	0
+chr1_8000_G_T	chr1_8300_A_C	G>T	A>C	300	1
+chr2_3000_C_T	chr2_3100_G_C	C>T	G>C	100	2
+chr2_3000_C_T	chr2_3300_A_T	C>T	A>T	300	2
+chr2_3100_G_C	chr2_3300_A_T	G>C	A>T	200	2
